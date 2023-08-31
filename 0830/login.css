@@ -1,0 +1,71 @@
+.left{
+	background-image: url("https://media.licdn.com/media//AAYQAgSrAAgAAQAAAAAAAEFQ0SVTwDSXRqWvckCS4gYqEA.svg");
+	background-repeat: no-repeat;		
+	background-size: 100% 100%;
+	max-width: 100%; 
+    display:block; 
+    height: auto;
+}
+
+.logo img{
+	position: relative;
+	left: 25px;
+	top: 20px;
+    width: 50%;
+	margin-bottom: 50px;
+}
+
+.welcome{
+	margin-top: 150px;
+	font-size: 30px;
+}
+
+.textGroup{
+	padding-top: 8px;
+	font-size: 12px;
+}
+
+.form-control{
+	margin-top: 10px;
+	padding-top: 15px;
+    padding-bottom: 15px;
+	color: #fff;
+	font-size: 10px;
+}
+
+.forgot{
+	padding-top: 5px;
+	color: #008cff;
+}
+
+.buttonGroup{
+	padding-top: 30px;
+}
+
+.btn{
+	font-size: 10px;
+	font-weight: bold;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.btn1{
+	color: #ffffff;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.btn2{
+	background-color: #ffffff;
+	color: #008cff;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.policy{
+	padding-top: 40px;
+	font-size: 8px;
+	color: #42A5F5;
+}
